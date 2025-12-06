@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vennelachowdaryannamareddy/Documents/ccc project/main'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002720, symSize: 0x4C }
+  - { offset: 0x59, size: 0x8, addend: 0x0, symName: _currentRole, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x6E, size: 0x8, addend: 0x0, symName: _currentUser, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offset: 0x83, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002720, symSize: 0x4C }
+  - { offset: 0x9C, size: 0x8, addend: 0x0, symName: _loginSystem, symObjAddr: 0x4C, symBinAddr: 0x10000276C, symSize: 0x1BC }
+  - { offset: 0x10E, size: 0x8, addend: 0x0, symName: _mainMenu, symObjAddr: 0x208, symBinAddr: 0x100002928, symSize: 0xA4 }
+  - { offset: 0x123, size: 0x8, addend: 0x0, symName: _adminMenu, symObjAddr: 0x2AC, symBinAddr: 0x1000029CC, symSize: 0x154 }
+  - { offset: 0x147, size: 0x8, addend: 0x0, symName: _userMenu, symObjAddr: 0x424, symBinAddr: 0x100002B44, symSize: 0xE4 }
+  - { offset: 0x16B, size: 0x8, addend: 0x0, symName: _staffMenu, symObjAddr: 0x508, symBinAddr: 0x100002C28, symSize: 0xF0 }
+  - { offset: 0x18F, size: 0x8, addend: 0x0, symName: _guestMenu, symObjAddr: 0x608, symBinAddr: 0x100002D28, symSize: 0xBC }
+  - { offset: 0x1B3, size: 0x8, addend: 0x0, symName: _addStudent, symObjAddr: 0x6C4, symBinAddr: 0x100002DE4, symSize: 0x128 }
+  - { offset: 0x1E5, size: 0x8, addend: 0x0, symName: _displayStudents, symObjAddr: 0x7EC, symBinAddr: 0x100002F0C, symSize: 0x118 }
+  - { offset: 0x217, size: 0x8, addend: 0x0, symName: _searchStudent, symObjAddr: 0x904, symBinAddr: 0x100003024, symSize: 0x154 }
+  - { offset: 0x265, size: 0x8, addend: 0x0, symName: _updateStudent, symObjAddr: 0xA58, symBinAddr: 0x100003178, symSize: 0x1FC }
+  - { offset: 0x2C4, size: 0x8, addend: 0x0, symName: _deleteStudent, symObjAddr: 0xC54, symBinAddr: 0x100003374, symSize: 0x1AC }
+  - { offset: 0x326, size: 0x8, addend: 0x0, symName: _sortStudents, symObjAddr: 0xE00, symBinAddr: 0x100003520, symSize: 0x3B0 }
+  - { offset: 0x405, size: 0x8, addend: 0x0, symName: _showTopper, symObjAddr: 0x11B0, symBinAddr: 0x1000038D0, symSize: 0x17C }
+  - { offset: 0x459, size: 0x8, addend: 0x0, symName: _clearAllRecords, symObjAddr: 0x132C, symBinAddr: 0x100003A4C, symSize: 0x44 }
+...

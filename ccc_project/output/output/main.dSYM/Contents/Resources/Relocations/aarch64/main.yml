@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vennelachowdaryannamareddy/Documents/ccc project/output/output/main'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002DF4, symSize: 0x4C }
+  - { offset: 0x59, size: 0x8, addend: 0x0, symName: _currentRole, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x6E, size: 0x8, addend: 0x0, symName: _currentUser, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offset: 0x83, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002DF4, symSize: 0x4C }
+  - { offset: 0x9C, size: 0x8, addend: 0x0, symName: _loginSystem, symObjAddr: 0x4C, symBinAddr: 0x100002E40, symSize: 0x1BC }
+  - { offset: 0x10E, size: 0x8, addend: 0x0, symName: _mainMenu, symObjAddr: 0x208, symBinAddr: 0x100002FFC, symSize: 0xA4 }
+  - { offset: 0x123, size: 0x8, addend: 0x0, symName: _adminMenu, symObjAddr: 0x2AC, symBinAddr: 0x1000030A0, symSize: 0x118 }
+  - { offset: 0x147, size: 0x8, addend: 0x0, symName: _userMenu, symObjAddr: 0x3DC, symBinAddr: 0x1000031D0, symSize: 0xE4 }
+  - { offset: 0x16B, size: 0x8, addend: 0x0, symName: _staffMenu, symObjAddr: 0x4C0, symBinAddr: 0x1000032B4, symSize: 0xF0 }
+  - { offset: 0x18F, size: 0x8, addend: 0x0, symName: _guestMenu, symObjAddr: 0x5C0, symBinAddr: 0x1000033B4, symSize: 0xBC }
+  - { offset: 0x1B3, size: 0x8, addend: 0x0, symName: _addStudent, symObjAddr: 0x67C, symBinAddr: 0x100003470, symSize: 0x128 }
+  - { offset: 0x1E5, size: 0x8, addend: 0x0, symName: _displayStudents, symObjAddr: 0x7A4, symBinAddr: 0x100003598, symSize: 0x118 }
+  - { offset: 0x217, size: 0x8, addend: 0x0, symName: _searchStudent, symObjAddr: 0x8BC, symBinAddr: 0x1000036B0, symSize: 0x154 }
+  - { offset: 0x265, size: 0x8, addend: 0x0, symName: _updateStudent, symObjAddr: 0xA10, symBinAddr: 0x100003804, symSize: 0x1FC }
+  - { offset: 0x2C4, size: 0x8, addend: 0x0, symName: _deleteStudent, symObjAddr: 0xC0C, symBinAddr: 0x100003A00, symSize: 0x1AC }
+...
